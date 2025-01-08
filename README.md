@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmenonprasad1%2Fkafka3_ODP-3.3.6.0-1-tag.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmenonprasad1%2Fkafka3_ODP-3.3.6.0-1-tag?ref=badge_shield)
+
 Apache Kafka
 =================
 See our [web site](https://kafka.apache.org) for details on the project.
@@ -291,3 +293,7 @@ Apache Kafka is interested in building the community; we would welcome any thoug
 
 To contribute follow the instructions here:
  * https://kafka.apache.org/contributing.html 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmenonprasad1%2Fkafka3_ODP-3.3.6.0-1-tag.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmenonprasad1%2Fkafka3_ODP-3.3.6.0-1-tag?ref=badge_large)
